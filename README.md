@@ -20,12 +20,14 @@ You can configure several settings by adjusting some of the static variables nea
 
 #### Maze size
 To adjust the size of the maze, go to line 9 and adjust this piece of code:
-`static int cellSize = __;`
+
+```static int cellSize = __;```
 
 Entering 1 makes the maze ridiculously small and entering 200 makes the maze... unusually easy to solve.
 
 #### Solution highlight enable/disable
 To prevent the maze from highlighting the solution, go to line 19 and set the value to false as shown here:
-`static boolean debugSln = false;`
+
+```static boolean debugSln = false;```
 
 To re-enable it, set it back to `true`.
