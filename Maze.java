@@ -6,7 +6,7 @@ public class Maze
     // Configurable variables
     static int consoleWidth = 150;
     static int consoleHeight = 33;
-    static int cellSize = 1;
+    static int cellSize = 5;
     
     static int[] playPos = {consoleWidth*4/cellSize, consoleHeight*10/cellSize};
     
