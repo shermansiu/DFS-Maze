@@ -27,7 +27,8 @@ To adjust the size of the maze, go to line 9 and adjust this piece of code:
 
 ```static int cellSize = __;```
 
-Entering 1 makes the maze ridiculously small and entering 200 makes the maze... unusually easy to solve.
+Entering `1` makes the maze ridiculously small and entering `200` makes the maze... unusually easy to solve.
+Just don't make the `cellSize` too large, or it'll crash!
 
 #### Solution highlight enable/disable
 To prevent the maze from highlighting the solution, go to line 19 and set the value to false as shown here:
