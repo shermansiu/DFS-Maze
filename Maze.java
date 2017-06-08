@@ -1,3 +1,32 @@
+/*
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the CC-BY-SA 3.0 license as published by
+    the Creative Commons and the GNU Free Documentation License as
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    CC-BY-SA 3.0 license and GNU Free Documentation License for more 
+    details.
+
+    You should have received a copy of the CC-BY-SA 3.0 license and the 
+    GNU Free Documentation License along with this program.  If not, 
+    see <https://creativecommons.org/licenses/by-sa/3.0/>
+    and <https://www.gnu.org/licenses/fdl-1.3.en.html>.
+*/
+
+// This maze generator and solver is based of Purpy Pupple's C maze 
+// generator implementation here:
+// https://en.wikipedia.org/wiki/User:Dllu/Maze
+
+// Changelog:
+// Implemented maze generator in Java
+// Added maze solver
+// Added endpoint selection and display methods
+// Included scoreboard
+// Added debugging features
+
 import hsa.Console;
 import java.awt.*;
 
