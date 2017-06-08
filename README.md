@@ -2,4 +2,4 @@
 
 A maze generator and solver.
 
-![DFS Maze](img/maze-1.png)
+<img src="/img/maze-1.png" alt="DFS Maze" style="width: 623px;"/>
