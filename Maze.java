@@ -13,7 +13,7 @@ public class Maze
     static Color charColor = new Color(255, 50, 0);
     static Color endpointColor = new Color(0, 162, 232);
 
-    static boolean debug = true;
+    static boolean debug = false;
     static boolean backtrackDebug = false;
     static boolean intenseDebug = false;
     static boolean debugSln = true;
