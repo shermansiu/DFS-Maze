@@ -12,6 +12,8 @@ This project is released under the [CC-BY-SA 3.0 license](https://freedomdefined
 
 Scroll down to the Sources heading for more information.
 
+This project was completed on October 30, 2013.
+
 ## Installation
 
 ### Pre-requisites
